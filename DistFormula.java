@@ -5,7 +5,7 @@ class DistFormula {
     public static void main (String[] args) {
         //declare variables
         Scanner sc = new Scanner(System.in);
-        double x1, y1, x2, y2 = 0;
+        double x1 = 0, y1 = 0, x2 = 0, y2 = 0;
         double dist = 0;
 
         //get user input
